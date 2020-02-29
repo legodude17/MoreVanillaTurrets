@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Moat -->
+
+  <Mudmoat.label>грязевой ров</Mudmoat.label>
+  <Mudmoat.description>Легкий вид защиты периметра для замедления врага. Может быть выкопан на местности, где есть земля, удалить её можно с помощью приказа «снять пол».</Mudmoat.description>
+
+
+</LanguageData>

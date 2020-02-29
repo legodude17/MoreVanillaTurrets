@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- military grade turret -->
+
+  <MilitaryTurretGunManned.label>управляемая боевая турель</MilitaryTurretGunManned.label>
+  <MilitaryTurretGunManned.description>Более мощный вариант автоматической турели. Более длинные сдвоенные стволы обеспечивают увеличенный диапазон и больший взрыв при уничтожении. Имеет более высокую вероятность взрыва в радиусе 4 тайлов. Этот управляемый вариант дешевле за счет необходимости оператора.</MilitaryTurretGunManned.description>
+  <MilitaryTurretGunManned_Blueprint.label>управляемая боевая турель (проект)</MilitaryTurretGunManned_Blueprint.label>
+  <MilitaryTurretGunManned_Blueprint_Install.label>управляемая боевая турель (проект)</MilitaryTurretGunManned_Blueprint_Install.label>
+  <MilitaryTurretGunManned_Frame.label>управляемая боевая турель (постройка)</MilitaryTurretGunManned_Frame.label>
+
+  <Bullet_TurretMilitary.label>пуля боевой турели</Bullet_TurretMilitary.label>
+
+  <Gun_TurretMilitaryManned.label>орудие боевой турели</Gun_TurretMilitaryManned.label>
+  <Gun_TurretMilitaryManned.description>Аккуратно изготовленное орудие прикрепленное к турели.</Gun_TurretMilitaryManned.description>
+
+
+  <!-- shredder turret -->
+
+  <ShredderTurretGunManned.label>управляемая турель измельчитель</ShredderTurretGunManned.label>
+  <ShredderTurretGunManned.description>Турель измельчитель - спроектирована для близкой дистанции. Она не взрывается при уничтожении, что делает её идеальным выбором для защиты внутри помещений. Единственным недостатком является то, что она занимает больше места, чем обычная турель. Этот управляемый вариант дешевле за счет необходимости оператора.</ShredderTurretGunManned.description>
+  <ShredderTurretGunManned_Blueprint.label>управляемая турель измельчитель (проект)</ShredderTurretGunManned_Blueprint.label>
+  <ShredderTurretGunManned_Blueprint_Install.label>управляемая турель измельчитель (проект)</ShredderTurretGunManned_Blueprint_Install.label>
+  <ShredderTurretGunManned_Frame.label>управляемая турель измельчитель (постройка)</ShredderTurretGunManned_Frame.label>
+
+  <Bullet_TurretShredder.label>пуля турели измельчителя</Bullet_TurretShredder.label>
+
+  <Gun_TurretShredderManned.label>орудие управляемой турели измельчителя</Gun_TurretShredderManned.label>
+  <Gun_TurretShredderManned.description>Дробовик измельчителя прикрепленный к турели.</Gun_TurretShredderManned.description>
+
+
+  <!-- precision turret -->
+
+  <PrecisionTurretGunManned.label>управляемая высокоточная турель</PrecisionTurretGunManned.label>
+  <PrecisionTurretGunManned.description>Высокоточная турель. Продвинутая оптика позволяет производить одиночный, но точный выстрел на достаточно большие дистанции. Взрывается редко в радиусе 2,5 тайлов. Этот управляемый вариант дешевле за счет необходимости оператора.</PrecisionTurretGunManned.description>
+  <PrecisionTurretGunManned_Blueprint.label>управляемая высокоточная турель (проект)</PrecisionTurretGunManned_Blueprint.label>
+  <PrecisionTurretGunManned_Blueprint_Install.label>управляемая высокоточная турель (проект)</PrecisionTurretGunManned_Blueprint_Install.label>
+  <PrecisionTurretGunManned_Frame.label>управляемая высокоточная турель (постройка)</PrecisionTurretGunManned_Frame.label>
+
+  <Bullet_TurretPrecision.label>пуля высокоточной турели</Bullet_TurretPrecision.label>
+
+  <Gun_TurretPrecisionManned.label>орудие управляемой высокоточной турели</Gun_TurretPrecisionManned.label>
+  <Gun_TurretPrecisionManned.description>Установленное высокоточное орудие на турель.</Gun_TurretPrecisionManned.description>
+
+
+  <!-- blast turret -->
+
+  <BlastTurretGunManned.label>управляемая гранатомётная турель</BlastTurretGunManned.label>
+  <BlastTurretGunManned.description>Гранатомётная турель предназначена для уничтожения на близкой дистанции, стреляет она залпом из 3-х гранат. При уничтожении взрывается в радиусе 3 тайлов. Этот управляемый вариант дешевле за счет необходимости оператора.</BlastTurretGunManned.description>
+  <BlastTurretGunManned_Blueprint.label>управляемая гранатомётная турель (проект)</BlastTurretGunManned_Blueprint.label>
+  <BlastTurretGunManned_Blueprint_Install.label>управляемая гранатомётная турель (проект)</BlastTurretGunManned_Blueprint_Install.label>
+  <BlastTurretGunManned_Frame.label>управляемая гранатомётная турель (постройка)</BlastTurretGunManned_Frame.label>
+
+  <Bullet_BlastCharge.label>разрывной снаряд</Bullet_BlastCharge.label>
+
+  <Gun_BlastChargeManned.label>управляемая пусковая установка</Gun_BlastChargeManned.label>
+  <Gun_BlastChargeManned.description>Установленная пусковая установка гранатомётной турели на стационарную оборонительную опору.</Gun_BlastChargeManned.description>
+
+
+  <!-- vulcan cannon -->
+
+  <VulcanCannonManned.label>управляемое орудие вулкан</VulcanCannonManned.label>
+  <VulcanCannonManned.description>Укрепленный башенный миниган, который непрерывно стреляет, очень прочный, но требующий много энергии. Из-за его высоты у него большая дистанция, но из-за этого нет возможности стрелять под себя и не может быть размещён в помещении. При уничтожении взрывается в радиусе 5.1 тайла. Этот управляемый вариант дешевле за счет необходимости оператора.</VulcanCannonManned.description>
+  <VulcanCannonManned_Blueprint.label>управляемое орудие вулкан (проект)</VulcanCannonManned_Blueprint.label>
+  <VulcanCannonManned_Frame.label>управляемое орудие вулканn (постройка)</VulcanCannonManned_Frame.label>
+
+  <Bullet_VulcanCannon.label>пуля орудия вулкан</Bullet_VulcanCannon.label>
+
+  <Gun_VulcanCannonManned.label>управляемое орудие вулкан</Gun_VulcanCannonManned.label>
+  <Gun_VulcanCannonManned.description>Аккуратно изготовленное орудие прикрепленное к турели.</Gun_VulcanCannonManned.description>
+
+
+</LanguageData>

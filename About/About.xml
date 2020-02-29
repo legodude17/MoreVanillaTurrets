@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>More Vanilla Turrets 1.1</name>
+	<author>Paradox</author>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<description>Version: 1.92
+A little mod that adds eight carefully balanced turret variations, each unique in its own way while matching the vanilla art style.
+	
+Original by Paradox, updated to 1.1 by legodude17.</description>
+	<packageId>paradox.morevanillaturrets</packageId>
+</ModMetaData>

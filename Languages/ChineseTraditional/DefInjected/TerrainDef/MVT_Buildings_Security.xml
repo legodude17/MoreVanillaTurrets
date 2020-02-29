@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Moat -->
+
+  <!-- <Mudmoat.label>mud moat</Mudmoat.label> -->
+  <Mudmoat.label>泥潭</Mudmoat.label>
+
+  <!-- <Mudmoat.description>A light perimeter defense to slow down your enemy. Can be dug on diggable terrain, and could be removed with "remove floor" tool.</Mudmoat.description> -->
+  <Mudmoat.description>一個簡易的外圍防禦設施，可以減緩敵人的進攻。它可以在能被挖掘的地形上建造，並且可以通過「移除地板」來移除。</Mudmoat.description>
+
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GunComplex.label>орудийный комплекс</GunComplex.label>
+  <GunComplex.description>Позволяет создавать новый не управляемый ИИ орудийный комплекс для защиты вашей колонии.</GunComplex.description>
+
+  <RocketComplex.label>ракетный комплекс</RocketComplex.label>
+  <RocketComplex.description>Позволяет создавать новый не управляемый ИИ ракетный комплекс для защиты вашей колонии.</RocketComplex.description>
+
+  <MilitaryTurret.label>боевые турели</MilitaryTurret.label>
+  <MilitaryTurret.description>Позволяет создавать более продвинутые турели военного класса.</MilitaryTurret.description>
+
+  <ShredderTurret.label>турели измельчители</ShredderTurret.label>
+  <ShredderTurret.description>Позволяет создавать смертоносны на близкой дистанции турели измельчители.</ShredderTurret.description>
+
+  <PrecisionTurret.label>высокоточные турели</PrecisionTurret.label>
+  <PrecisionTurret.description>Позволяет создавать высокоточные турели для дальних дистанций.</PrecisionTurret.description>
+
+  <BlastTurret.label>гранатомётные турели</BlastTurret.label>
+  <BlastTurret.description>Позволяет создавать довольно устрашающие гранатомётные турели.</BlastTurret.description>
+
+  <VulcanCannon.label>орудие вулкан</VulcanCannon.label>
+  <VulcanCannon.description>Позволяет создавать орудия вулкан.</VulcanCannon.description>
+
+  <DevastatorMortar.label>миномёт опустошитель</DevastatorMortar.label>
+  <DevastatorMortar.description>Позволяет создавать миномёты опустошитель.</DevastatorMortar.description>
+
+
+</LanguageData>

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- military grade turret -->
+
+  <!-- <MilitaryTurretGunManned.label>manned military grade turret</MilitaryTurretGunManned.label>
+  <MilitaryTurretGunManned.description>A more powerful variant of an automated turret. Longer dual barrels provide increased range, and greater burst. Has higher chance to explode in a radius of 4. This manned design is cheaper at the cost of needing an operator.</MilitaryTurretGunManned.description>
+  <MilitaryTurretGunManned_Blueprint.label>manned military grade turret (blueprint)</MilitaryTurretGunManned_Blueprint.label>
+  <MilitaryTurretGunManned_Blueprint_Install.label>manned military grade turret (blueprint)</MilitaryTurretGunManned_Blueprint_Install.label>
+  <MilitaryTurretGunManned_Frame.label>manned military grade turret (building)</MilitaryTurretGunManned_Frame.label>
+  <MilitaryTurretGunManned_Frame.description>A more powerful variant of an automated turret. Longer dual barrels provide increased range, and greater burst. Has higher chance to explode in a radius of 4. This manned design is cheaper at the cost of needing an operator.</MilitaryTurretGunManned_Frame.description>
+
+  <Bullet_TurretMilitary.label>military turret bullet</Bullet_TurretMilitary.label>
+
+  <Gun_TurretMilitaryManned.label>manned military turret gun</Gun_TurretMilitaryManned.label>
+  <Gun_TurretMilitaryManned.description>Carefully crafted gun attached to a turret.</Gun_TurretMilitaryManned.description> -->
+  <MilitaryTurretGunManned.label>手控军用炮塔</MilitaryTurretGunManned.label>
+  <MilitaryTurretGunManned.description>自动炮塔的威力升级版。加长的双枪管提供更大的射程，以及更高的连射次数。损毁时极高几率爆炸，半径为4。这个手控版本消耗的资源更少，但是需要一个操控者。</MilitaryTurretGunManned.description>
+  <MilitaryTurretGunManned_Blueprint.label>手控军用炮塔（蓝图）</MilitaryTurretGunManned_Blueprint.label>
+  <MilitaryTurretGunManned_Blueprint_Install.label>手控军用炮塔（蓝图）</MilitaryTurretGunManned_Blueprint_Install.label>
+  <MilitaryTurretGunManned_Frame.label>手控军用炮塔（建造中）</MilitaryTurretGunManned_Frame.label>
+  <MilitaryTurretGunManned_Frame.description>自动炮塔的威力升级版。加长的双枪管提供更大的射程，以及更高的连射次数。损毁时极高几率爆炸，半径为4。这个手控版本消耗的资源更少，但是需要一个操控者。</MilitaryTurretGunManned_Frame.description>
+
+  <Bullet_TurretMilitary.label>军用炮塔子弹</Bullet_TurretMilitary.label>
+
+  <Gun_TurretMilitaryManned.label>手控军用炮塔用枪</Gun_TurretMilitaryManned.label>
+  <Gun_TurretMilitaryManned.description>装载于炮塔的制作精良的枪械。</Gun_TurretMilitaryManned.description>
+
+
+  <!-- shredder turret -->
+
+  <!-- <ShredderTurretGunManned.label>manned shredder turret</ShredderTurretGunManned.label>
+  <ShredderTurretGunManned.description>Shredder turret is designed for close range. It doesn't explodes when destroyed thus making it a perfect choice for indoor defense, the only downside is that it takes more space than an ordinary variant. This manned design is cheaper at the cost of needing an operator.</ShredderTurretGunManned.description>
+  <ShredderTurretGunManned_Blueprint.label>manned shredder turret (blueprint)</ShredderTurretGunManned_Blueprint.label>
+  <ShredderTurretGunManned_Blueprint_Install.label>manned shredder turret (blueprint)</ShredderTurretGunManned_Blueprint_Install.label>
+  <ShredderTurretGunManned_Frame.label>manned shredder turret (building)</ShredderTurretGunManned_Frame.label>
+  <ShredderTurretGunManned_Frame.description>Shredder turret is designed for close range. It doesn't explodes when destroyed thus making it a perfect choice for indoor defense, the only downside is that it takes more space than an ordinary variant. This manned design is cheaper at the cost of needing an operator.</ShredderTurretGunManned_Frame.description>
+
+  <Bullet_TurretShredder.label>shredder turret bullet</Bullet_TurretShredder.label>
+
+  <Gun_TurretShredderManned.label>manned shredder turret gun</Gun_TurretShredderManned.label>
+  <Gun_TurretShredderManned.description>Shredder shotgun attached to a turret.</Gun_TurretShredderManned.description> -->
+
+  <ShredderTurretGunManned.label>手控粉碎者炮塔</ShredderTurretGunManned.label>
+  <ShredderTurretGunManned.description>粉碎者炮塔是为近距离作战而设计的。损毁时不会发生爆炸，使其成为室内防御的完美选择，唯一的缺点是比起普通的炮塔占据更多的空间。这个手控版本消耗的资源更少，但是需要一个操控者。</ShredderTurretGunManned.description>
+  <ShredderTurretGunManned_Blueprint.label>手控粉碎者炮塔（蓝图）</ShredderTurretGunManned_Blueprint.label>
+  <ShredderTurretGunManned_Blueprint_Install.label>手控粉碎者炮塔（蓝图）</ShredderTurretGunManned_Blueprint_Install.label>
+  <ShredderTurretGunManned_Frame.label>手控粉碎者炮塔（建造中）</ShredderTurretGunManned_Frame.label>
+  <ShredderTurretGunManned_Frame.description>粉碎者炮塔是为近距离作战而设计的。损毁时不会发生爆炸，使其成为室内防御的完美选择，唯一的缺点是比起普通的炮塔占据更多的空间。这个手控版本消耗的资源更少，但是需要一个操控者。</ShredderTurretGunManned_Frame.description>
+
+  <Bullet_TurretShredder.label>粉碎者炮塔子弹</Bullet_TurretShredder.label>
+
+  <Gun_TurretShredderManned.label>手控粉碎者炮塔用枪</Gun_TurretShredderManned.label>
+  <Gun_TurretShredderManned.description>装载于炮塔的粉碎者霰弹枪。</Gun_TurretShredderManned.description>
+
+
+  <!-- precision turret -->
+
+  <!-- <PrecisionTurretGunManned.label>manned precision turret</PrecisionTurretGunManned.label>
+  <PrecisionTurretGunManned.description>A highly calibrated gun turret. Advanced optics allows it to deliver a single but precise shot at fairly long distances. Explodes rarely in a radius of 2.5. This manned design is cheaper at the cost of needing an operator.</PrecisionTurretGunManned.description>
+  <PrecisionTurretGunManned_Blueprint.label>manned precision turret (blueprint)</PrecisionTurretGunManned_Blueprint.label>
+  <PrecisionTurretGunManned_Blueprint_Install.label>manned precision turret (blueprint)</PrecisionTurretGunManned_Blueprint_Install.label>
+  <PrecisionTurretGunManned_Frame.label>manned precision turret (building)</PrecisionTurretGunManned_Frame.label>
+  <PrecisionTurretGunManned_Frame.description>A highly calibrated gun turret. Advanced optics allows it to deliver a single but precise shot at fairly long distances. Explodes rarely in a radius of 2.5. This manned design is cheaper at the cost of needing an operator.</PrecisionTurretGunManned_Frame.description>
+
+  <Bullet_TurretPrecision.label>precision turret bullet</Bullet_TurretPrecision.label>
+
+  <Gun_TurretPrecisionManned.label>manned precision turret gun</Gun_TurretPrecisionManned.label>
+  <Gun_TurretPrecisionManned.description>A mounted precision gun on a turret.</Gun_TurretPrecisionManned.description> -->
+  <PrecisionTurretGunManned.label>手控精准炮塔</PrecisionTurretGunManned.label>
+  <PrecisionTurretGunManned.description>大口径枪械炮塔。发射单发子弹，但先进的瞄准设备使其在极远距离上非常精准。损毁时爆炸几率很小，半径为2.5。这个手控版本消耗的资源更少，但是需要一个操控者。</PrecisionTurretGunManned.description>
+  <PrecisionTurretGunManned_Blueprint.label>手控精准炮塔（蓝图）</PrecisionTurretGunManned_Blueprint.label>
+  <PrecisionTurretGunManned_Blueprint_Install.label>手控精准炮塔（蓝图）</PrecisionTurretGunManned_Blueprint_Install.label>
+  <PrecisionTurretGunManned_Frame.label>手控精准炮塔（建造中）</PrecisionTurretGunManned_Frame.label>
+  <PrecisionTurretGunManned_Frame.description>大口径枪械炮塔。发射单发子弹，但先进的瞄准设备使其在极远距离上非常精准。损毁时爆炸几率很小，半径为2.5。这个手控版本消耗的资源更少，但是需要一个操控者。</PrecisionTurretGunManned_Frame.description>
+
+  <Bullet_TurretPrecision.label>精准炮塔子弹</Bullet_TurretPrecision.label>
+
+  <Gun_TurretPrecisionManned.label>手控精准炮塔用枪</Gun_TurretPrecisionManned.label>
+  <Gun_TurretPrecisionManned.description>装载于炮塔的精准枪械。</Gun_TurretPrecisionManned.description>
+
+  <!-- blast turret -->
+
+  <!-- <BlastTurretGunManned.label>manned blast turret</BlastTurretGunManned.label>
+  <BlastTurretGunManned.description>Blast turret is designed for close range area damage, and it does so by launching a burst of 3 frag grenades. Explodes in a radius of 3 when destroyed. This manned design is cheaper at the cost of needing an operator.</BlastTurretGunManned.description>
+  <BlastTurretGunManned_Blueprint.label>manned blast turret (blueprint)</BlastTurretGunManned_Blueprint.label>
+  <BlastTurretGunManned_Blueprint_Install.label>manned blast turret (blueprint)</BlastTurretGunManned_Blueprint_Install.label>
+  <BlastTurretGunManned_Frame.label>manned blast turret (building)</BlastTurretGunManned_Frame.label>
+  <BlastTurretGunManned_Frame.description>Blast turret is designed for close range area damage, and it does so by launching a burst of 3 frag grenades. Explodes in a radius of 3 when destroyed. This manned design is cheaper at the cost of needing an operator.</BlastTurretGunManned_Frame.description>
+
+  <Bullet_BlastCharge.label>blast charge</Bullet_BlastCharge.label>
+
+  <Gun_BlastChargeManned.label>manned blast charge cannon</Gun_BlastChargeManned.label>
+  <Gun_BlastChargeManned.description>A mounted blast charge launcher on a stationary sentry base.</Gun_BlastChargeManned.description> -->
+  <BlastTurretGunManned.label>手控爆裂炮塔</BlastTurretGunManned.label>
+  <BlastTurretGunManned.description>爆裂炮塔是为近距离范围攻击而设计的，每次发射3发破片榴弹。损毁时爆炸半径为3。这个手控版本消耗的资源更少，但是需要一个操控者。</BlastTurretGunManned.description>
+  <BlastTurretGunManned_Blueprint.label>手控爆裂炮塔（蓝图）</BlastTurretGunManned_Blueprint.label>
+  <BlastTurretGunManned_Blueprint_Install.label>手控爆裂炮塔（蓝图）</BlastTurretGunManned_Blueprint_Install.label>
+  <BlastTurretGunManned_Frame.label>手控爆裂炮塔（建造中）</BlastTurretGunManned_Frame.label>
+  <BlastTurretGunManned_Frame.description>爆裂炮塔是为近距离范围攻击而设计的，每次发射3发破片榴弹。损毁时爆炸半径为3。这个手控版本消耗的资源更少，但是需要一个操控者。</BlastTurretGunManned_Frame.description>
+
+  <Bullet_BlastCharge.label>爆裂榴弹</Bullet_BlastCharge.label>
+
+  <Gun_BlastChargeManned.label>手控爆裂炮塔榴弹发射器</Gun_BlastChargeManned.label>
+  <Gun_BlastChargeManned.description>装载于固定哨戒基座的榴弹发射器。</Gun_BlastChargeManned.description>
+
+  <!-- vulcan cannon -->
+
+  <VulcanCannonManned.label>手控火神炮</VulcanCannonManned.label>
+  <VulcanCannonManned.description>火力持续的增强型机枪炮塔，坚固耐用以及怪兽版的火力。结构高达、射程远，但也导致无法精确瞄准并且无法部署于室内。损毁时爆炸半径为5.1。这个手控版本消耗的资源更少，但是需要一个操控者。</VulcanCannonManned.description>
+  <VulcanCannonManned_Blueprint.label>手控火神炮（蓝图）</VulcanCannonManned_Blueprint.label>
+  <VulcanCannonManned_Frame.label>手控火神炮（建造中）</VulcanCannonManned_Frame.label>
+  <VulcanCannonManned_Frame.description>火力持续的增强型机枪炮塔，坚固耐用以及怪兽版的火力。结构高达、射程远，但也导致无法精确瞄准并且无法部署于室内。损毁时爆炸半径为5.1。这个手控版本消耗的资源更少，但是需要一个操控者。</VulcanCannonManned_Frame.description>
+
+  <Bullet_VulcanCannon.label>火神炮子弹</Bullet_VulcanCannon.label>
+
+  <Gun_VulcanCannonManned.label>手控毁灭者迫击炮</Gun_VulcanCannonManned.label>
+  <Gun_VulcanCannonManned.description>毁灭者发射器。可越过墙体发射炮弹。精度低但射程远并且弹头速度高。</Gun_VulcanCannonManned.description>
+
+
+</LanguageData>

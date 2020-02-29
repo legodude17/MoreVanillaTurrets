@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- gun complex -->
+
+  <GunComplex.label>орудийный комплекс</GunComplex.label>
+  <GunComplex.description>Круговое орудие предназначенное для работы независимо от того, есть ли у вас энергия или нет, если им кто-то управляет. Никогда не взрывается.</GunComplex.description>
+  <GunComplex_Blueprint.label>орудийный комплекс (проект)</GunComplex_Blueprint.label>
+  <GunComplex_Blueprint_Install.label>орудийный комплекс (проект)</GunComplex_Blueprint_Install.label>
+  <GunComplex_Frame.label>орудийный комплекс (постройка)</GunComplex_Frame.label>
+
+  <Bullet_GunComplex.label>пуля орудийного комплекса</Bullet_GunComplex.label>
+
+  <Gun_GunComplex.label>орудие орудийного комплекса</Gun_GunComplex.label>
+  <Gun_GunComplex.description>Тяжёлый пулемёт.</Gun_GunComplex.description>
+
+
+  <!-- rocket complex -->
+
+  <RocketComplex.label>ракетный комплекс</RocketComplex.label>
+  <RocketComplex.description>Более старый класс оружия, требующий ручного управления и перезарядки. К счастью, с помощью приличной оптики и радиуса взрыва смертоносного оружия его присутствие на передовой по-прежнему пугает. При уничтожении взрывается в радиусе 3 тайлов.</RocketComplex.description>
+  <RocketComplex_Blueprint.label>ракетный комплекс (проект)</RocketComplex_Blueprint.label>
+  <RocketComplex_Blueprint_Install.label>ракетный комплекс (проект)</RocketComplex_Blueprint_Install.label>
+  <RocketComplex_Frame.label>ракетный комплекс (постройка)</RocketComplex_Frame.label>
+
+  <Bullet_ComplexRocket.label>ракета</Bullet_ComplexRocket.label>
+
+  <Gun_RocketComplex.label>ракетный комплекс</Gun_RocketComplex.label>
+  <Gun_RocketComplex.description>Установленный ракетный комплекс</Gun_RocketComplex.description>
+
+
+  <!-- military grade turret -->
+
+  <MilitaryTurretGun.label>боевая турель</MilitaryTurretGun.label>
+  <MilitaryTurretGun.description>Более мощный вариант автоматической турели. Более длинные сдвоенные стволы обеспечивают увеличенный диапазон и больший взрыв при уничтожении. Имеет более высокую вероятность взрыва в радиусе 4 тайлов.</MilitaryTurretGun.description>
+  <MilitaryTurretGun_Blueprint.label>боевая турель (проект)</MilitaryTurretGun_Blueprint.label>
+  <MilitaryTurretGun_Blueprint_Install.label>боевая турель (проект)</MilitaryTurretGun_Blueprint_Install.label>
+  <MilitaryTurretGun_Frame.label>боевая турель (постройка)</MilitaryTurretGun_Frame.label>
+
+  <Gun_TurretMilitary.label>орудие боевой турели</Gun_TurretMilitary.label>
+  <Gun_TurretMilitary.description>Аккуратно изготовленное орудие прикрепленное к турели.</Gun_TurretMilitary.description>
+
+
+  <!-- shredder turret -->
+
+  <ShredderTurretGun.label>турель измельчитель</ShredderTurretGun.label>
+  <ShredderTurretGun.description>Турель измельчитель - спроектирована для близкой дистанции. Она не взрывается при уничтожении, что делает её идеальным выбором для защиты внутри помещений. Единственным недостатком является то, что она занимает больше места, чем обычная турель.</ShredderTurretGun.description>
+  <ShredderTurretGun_Blueprint.label>турель измельчитель (проект)</ShredderTurretGun_Blueprint.label>
+  <ShredderTurretGun_Blueprint_Install.label>турель измельчитель (проект)</ShredderTurretGun_Blueprint_Install.label>
+  <ShredderTurretGun_Frame.label>турель измельчитель (постройка)</ShredderTurretGun_Frame.label>
+
+  <Gun_TurretShredder.label>орудие турели измельчителя</Gun_TurretShredder.label>
+  <Gun_TurretShredder.description>Дробовик измельчителя прикрепленный к турели.</Gun_TurretShredder.description>
+
+
+  <!-- precision turret -->
+
+  <PrecisionTurretGun.label>высокоточная турель</PrecisionTurretGun.label>
+  <PrecisionTurretGun.description>Высокоточная турель. Продвинутая оптика позволяет производить одиночный, но точный выстрел на достаточно большие дистанции. Взрывается редко в радиусе 2,5 тайлов.</PrecisionTurretGun.description>
+  <PrecisionTurretGun_Blueprint.label>высокоточная турель (проект)</PrecisionTurretGun_Blueprint.label>
+  <PrecisionTurretGun_Blueprint_Install.label>высокоточная турель (проект)</PrecisionTurretGun_Blueprint_Install.label>
+  <PrecisionTurretGun_Frame.label>высокоточная турель (постройка)</PrecisionTurretGun_Frame.label>
+
+  <Gun_TurretPrecision.label>орудие высокоточной турели</Gun_TurretPrecision.label>
+  <Gun_TurretPrecision.description>Установленное высокоточное орудие на турель</Gun_TurretPrecision.description>
+
+
+  <!-- blast turret -->
+
+  <BlastTurretGun.label>гранатомётная турель</BlastTurretGun.label>
+  <BlastTurretGun.description>Гранатомётная турель предназначена для уничтожения на близкой дистанции, стреляет она залпом из 3-х гранат. При уничтожении взрывается в радиусе 3 тайлов.</BlastTurretGun.description>
+  <BlastTurretGun_Blueprint.label>гранатомётная турель (проект)</BlastTurretGun_Blueprint.label>
+  <BlastTurretGun_Blueprint_Install.label>гранатомётная турель (проект)</BlastTurretGun_Blueprint_Install.label>
+  <BlastTurretGun_Frame.label>гранатомётная турель (постройка)</BlastTurretGun_Frame.label>
+
+  <Gun_BlastCharge.label>пусковая установка</Gun_BlastCharge.label>
+  <Gun_BlastCharge.description>Установленная пусковая установка на турель.</Gun_BlastCharge.description>
+
+
+  <!-- vulcan cannon -->
+
+  <VulcanCannon.label>турель вулкан</VulcanCannon.label>
+  <VulcanCannon.description>Укрепленный башенный миниган, который непрерывно стреляет, очень прочный, но требующий много энергии. Из-за его высоты у него большая дистанция, но из-за этого нет возможности стрелять под себя и не может быть размещён в помещении. При уничтожении взрывается в радиусе 5.1 тайла.</VulcanCannon.description>
+  <VulcanCannon_Blueprint.label>турель вулкан (проект)</VulcanCannon_Blueprint.label>
+  <VulcanCannon_Frame.label>турель вулкан (постройка)</VulcanCannon_Frame.label>
+
+  <Gun_VulcanCannon.label>орудие вулкан</Gun_VulcanCannon.label>
+  <Gun_VulcanCannon.description>Аккуратно изготовленное орудие прикрепленное к турели.</Gun_VulcanCannon.description>
+
+
+  <!-- Devastator mortar -->
+
+  <Turret_DevastatorMortarBomb.label>миномёт опустошитель</Turret_DevastatorMortarBomb.label>
+  <Turret_DevastatorMortarBomb.description>Магнитная катапульта, которая запускает плазменные заряды с большой скоростью, высокой точностью и огромным радиусом взрыва благодаря его залпу из пяти зарядов. Следите за огромным ЭМИ в радиусе 10 тайлов при уничтожении.</Turret_DevastatorMortarBomb.description>
+  <Turret_DevastatorMortarBomb_Blueprint.label>миномёт опустошитель (проект)</Turret_DevastatorMortarBomb_Blueprint.label>
+  <Turret_DevastatorMortarBomb_Frame.label>миномёт опустошитель (постройка)</Turret_DevastatorMortarBomb_Frame.label>
+
+  <Bullet_DevastatorBomb.label>разрывной снаряд опустошителя</Bullet_DevastatorBomb.label>
+
+  <Artillery_DevastatorBomb.label>миномёт опустошитель</Artillery_DevastatorBomb.label>
+  <Artillery_DevastatorBomb.description>Пусковая установка опустошитель. стреляет через стены. Средняя точность большая дальность и стреляет высокоскоростными снарядами.</Artillery_DevastatorBomb.description>
+
+
+</LanguageData>

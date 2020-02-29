@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- gun complex -->
+
+  <!-- <GunComplex.label>gun complex</GunComplex.label>
+  <GunComplex.description>A perimeter mounted gun is designed to work regardless if you have power or not as long as somebody is manning it. Never explodes.</GunComplex.description>
+  <GunComplex_Blueprint.label>gun complex (blueprint)</GunComplex_Blueprint.label>
+  <GunComplex_Blueprint_Install.label>gun complex (blueprint)</GunComplex_Blueprint_Install.label>
+  <GunComplex_Frame.label>gun complex (building)</GunComplex_Frame.label>
+  <GunComplex_Frame.description>A perimeter mounted gun is designed to work regardless if you have power or not as long as somebody is manning it. Never explodes.</GunComplex_Frame.description> -->
+  <GunComplex.label>复合机枪巢</GunComplex.label>
+  <GunComplex.description>装载了机枪的外围防御，只需要有人操控而不需要电力。不会爆炸。</GunComplex.description>
+  <GunComplex_Blueprint.label>复合机枪巢（蓝图）</GunComplex_Blueprint.label>
+  <GunComplex_Blueprint_Install.label>复合机枪巢（蓝图）</GunComplex_Blueprint_Install.label>
+  <GunComplex_Frame.label>复合机枪巢（建造中）</GunComplex_Frame.label>
+  <GunComplex_Frame.description>装载了机枪的外围防御，只需要有人操控而不需要电力。不会爆炸。</GunComplex_Frame.description>
+
+  <Bullet_GunComplex.label>复合机枪子弹</Bullet_GunComplex.label>
+
+  <Gun_GunComplex.label>复合机枪</Gun_GunComplex.label>
+  <Gun_GunComplex.description>重型机枪。</Gun_GunComplex.description>
+
+
+  <!-- rocket complex -->
+
+  <!-- <RocketComplex.label>rocket complex</RocketComplex.label>
+  <RocketComplex.description>An older class of weapon that requires manual control and reload. Fortunately, with the help of decent optics and deadly weapon blast radius its presence is still dreaded on the front lines. Explodes in a radius of 3 when destroyed.</RocketComplex.description>
+  <RocketComplex_Blueprint.label>rocket complex (blueprint)</RocketComplex_Blueprint.label>
+  <RocketComplex_Blueprint_Install.label>rocket complex (blueprint)</RocketComplex_Blueprint_Install.label>
+  <RocketComplex_Frame.label>rocket complex (building)</RocketComplex_Frame.label>
+  <RocketComplex_Frame.description>An older class of weapon that requires manual control and reload. Fortunately, with the help of decent optics and deadly weapon blast radius its presence is still dreaded on the front lines. Explodes in a radius of 3 when destroyed.</RocketComplex_Frame.description>
+
+  <Bullet_ComplexRocket.label>complex rocket</Bullet_ComplexRocket.label>
+
+  <Gun_RocketComplex.label>rocket complex</Gun_RocketComplex.label>
+  <Gun_RocketComplex.description>A mounted rocket complex on a slab.</Gun_RocketComplex.description> -->
+  <RocketComplex.label>复合火箭巢</RocketComplex.label>
+  <RocketComplex.description>古老经典的武器，需要人员操控和装填。幸运的是，在良好的光学瞄准和致命的爆炸范围使得这种武器在前线仍然是可怕的存在。损毁时爆炸半径为3。</RocketComplex.description>
+  <RocketComplex_Blueprint.label>复合火箭巢（蓝图）</RocketComplex_Blueprint.label>
+  <RocketComplex_Blueprint_Install.label>复合火箭巢（蓝图）</RocketComplex_Blueprint_Install.label>
+  <RocketComplex_Frame.label>复合火箭巢（建造中）</RocketComplex_Frame.label>
+  <RocketComplex_Frame.description>古老经典的武器，需要人员操控和装填。幸运的是，在良好的光学瞄准和致命的爆炸范围使得这种武器在前线仍然是可怕的存在。损毁时爆炸半径为3。</RocketComplex_Frame.description>
+
+  <Bullet_ComplexRocket.label>复合火箭</Bullet_ComplexRocket.label>
+
+  <Gun_RocketComplex.label>复合火箭发射器</Gun_RocketComplex.label>
+  <Gun_RocketComplex.description>安装在甲板上的复合火箭发射器。</Gun_RocketComplex.description>
+
+
+  <!-- military grade turret -->
+
+  <!-- <MilitaryTurretGun.label>military grade turret</MilitaryTurretGun.label>
+  <MilitaryTurretGun.description>A more powerful variant of an automated turret. Longer dual barrels provide increased range, and greater burst. Has higher chance to explode in a radius of 4.</MilitaryTurretGun.description>
+  <MilitaryTurretGun_Blueprint.label>military grade turret (blueprint)</MilitaryTurretGun_Blueprint.label>
+  <MilitaryTurretGun_Blueprint_Install.label>military grade turret (blueprint)</MilitaryTurretGun_Blueprint_Install.label>
+  <MilitaryTurretGun_Frame.label>military grade turret (building)</MilitaryTurretGun_Frame.label>
+  <MilitaryTurretGun_Frame.description>A more powerful variant of an automated turret. Longer dual barrels provide increased range, and greater burst. Has higher chance to explode in a radius of 4.</MilitaryTurretGun_Frame.description>
+  
+  <Bullet_TurretMilitary.label>military turret bullet</Bullet_TurretMilitary.label>
+
+  <Gun_TurretMilitary.label>military turret gun</Gun_TurretMilitary.label>
+  <Gun_TurretMilitary.description>Carefully crafted gun attached to a turret.</Gun_TurretMilitary.description> -->
+  <MilitaryTurretGun.label>军用炮塔</MilitaryTurretGun.label>
+  <MilitaryTurretGun.description>自动炮塔的威力升级版。加长的双枪管提供更大的射程，以及更高的连射次数。损毁时极高几率爆炸，半径为4。</MilitaryTurretGun.description>
+  <MilitaryTurretGun_Blueprint.label>军用炮塔（蓝图）</MilitaryTurretGun_Blueprint.label>
+  <MilitaryTurretGun_Blueprint_Install.label>军用炮塔（蓝图）</MilitaryTurretGun_Blueprint_Install.label>
+  <MilitaryTurretGun_Frame.label>军用炮塔（建造中）</MilitaryTurretGun_Frame.label>
+  <MilitaryTurretGun_Frame.description>自动炮塔的威力升级版。加长的双枪管提供更大的射程，以及更高的连射次数。损毁时极高几率爆炸，半径为4。</MilitaryTurretGun_Frame.description>
+
+  <!--[Duplicated] <Bullet_TurretMilitary.label>military turret bullet</Bullet_TurretMilitary.label>-->
+
+  <Gun_TurretMilitary.label>军用炮塔用枪</Gun_TurretMilitary.label>
+  <Gun_TurretMilitary.description>装载于炮塔的制作精良的枪械。</Gun_TurretMilitary.description>
+
+
+  <!-- shredder turret -->
+
+  <!-- <ShredderTurretGun.label>shredder turret</ShredderTurretGun.label>
+  <ShredderTurretGun.description>Shredder turret is designed for close range. It doesn't explodes when destroyed thus making it a perfect choice for indoor defense, the only downside is that it takes more space than an ordinary variant.</ShredderTurretGun.description>
+  <ShredderTurretGun_Blueprint.label>shredder turret (blueprint)</ShredderTurretGun_Blueprint.label>
+  <ShredderTurretGun_Blueprint_Install.label>shredder turret (blueprint)</ShredderTurretGun_Blueprint_Install.label>
+  <ShredderTurretGun_Frame.label>shredder turret (building)</ShredderTurretGun_Frame.label>
+  <ShredderTurretGun_Frame.description>Shredder turret is designed for close range. It doesn't explodes when destroyed thus making it a perfect choice for indoor defense, the only downside is that it takes more space than an ordinary variant.</ShredderTurretGun_Frame.description>
+
+  <Bullet_TurretShredder.label>shredder turret bullet</Bullet_TurretShredder.label>
+
+  <Gun_TurretShredder.label>shredder turret gun</Gun_TurretShredder.label>
+  <Gun_TurretShredder.description>Shredder shotgun attached to a turret.</Gun_TurretShredder.description> -->
+  <ShredderTurretGun.label>粉碎者炮塔</ShredderTurretGun.label>
+  <ShredderTurretGun.description>粉碎者炮塔是为近距离作战而设计的。损毁时不会发生爆炸，使其成为室内防御的完美选择，唯一的缺点是比起普通的炮塔占据更多的空间。</ShredderTurretGun.description>
+  <ShredderTurretGun_Blueprint.label>粉碎者炮塔（蓝图）</ShredderTurretGun_Blueprint.label>
+  <ShredderTurretGun_Blueprint_Install.label>粉碎者炮塔（蓝图）</ShredderTurretGun_Blueprint_Install.label>
+  <ShredderTurretGun_Frame.label>粉碎者炮塔（建造中）</ShredderTurretGun_Frame.label>
+  <ShredderTurretGun_Frame.description>粉碎者炮塔是为近距离作战而设计的。损毁时不会发生爆炸，使其成为室内防御的完美选择，唯一的缺点是比起普通的炮塔占据更多的空间。</ShredderTurretGun_Frame.description>
+
+  <!--[Duplicated] <Bullet_TurretShredder.label>shredder turret bullet</Bullet_TurretShredder.label>-->
+
+  <Gun_TurretShredder.label>粉碎者炮塔用枪</Gun_TurretShredder.label>
+  <Gun_TurretShredder.description>装载于炮塔的粉碎者霰弹枪。</Gun_TurretShredder.description>
+
+
+  <!-- precision turret -->
+
+  <!-- <PrecisionTurretGun.label>precision turret</PrecisionTurretGun.label>
+  <PrecisionTurretGun.description>A highly calibrated gun turret. Advanced optics allows it to deliver a single but precise shot at fairly long distances. Explodes rarely in a radius of 2.5.</PrecisionTurretGun.description>
+  <PrecisionTurretGun_Blueprint.label>precision turret (blueprint)</PrecisionTurretGun_Blueprint.label>
+  <PrecisionTurretGun_Blueprint_Install.label>precision turret (blueprint)</PrecisionTurretGun_Blueprint_Install.label>
+  <PrecisionTurretGun_Frame.label>precision turret (building)</PrecisionTurretGun_Frame.label>
+  <PrecisionTurretGun_Frame.description>A highly calibrated gun turret. Advanced optics allows it to deliver a single but precise shot at fairly long distances. Explodes rarely in a radius of 2.5.</PrecisionTurretGun_Frame.description>
+
+  <Bullet_TurretPrecision.label>precision turret bullet</Bullet_TurretPrecision.label>
+
+  <Gun_TurretPrecision.label>precision turret gun</Gun_TurretPrecision.label>
+  <Gun_TurretPrecision.description>A mounted precision gun on a turret.</Gun_TurretPrecision.description> -->
+  <PrecisionTurretGun.label>精准炮塔</PrecisionTurretGun.label>
+  <PrecisionTurretGun.description>大口径枪械炮塔。发射单发子弹，但先进的瞄准设备使其在极远距离上非常精准。损毁时爆炸几率很小，半径为2.5。</PrecisionTurretGun.description>
+  <PrecisionTurretGun_Blueprint.label>精准炮塔（蓝图）</PrecisionTurretGun_Blueprint.label>
+  <PrecisionTurretGun_Blueprint_Install.label>精准炮塔（蓝图）</PrecisionTurretGun_Blueprint_Install.label>
+  <PrecisionTurretGun_Frame.label>精准炮塔（建造中）</PrecisionTurretGun_Frame.label>
+  <PrecisionTurretGun_Frame.description>大口径枪械炮塔。发射单发子弹，但先进的瞄准设备使其在极远距离上非常精准。损毁时爆炸几率很小，半径为2.5。</PrecisionTurretGun_Frame.description>
+
+  <!--[Duplicated] <Bullet_TurretPrecision.label>precision turret bullet</Bullet_TurretPrecision.label> -->
+
+  <Gun_TurretPrecision.label>精准炮塔用枪</Gun_TurretPrecision.label>
+  <Gun_TurretPrecision.description>装载于炮塔的精准枪械。</Gun_TurretPrecision.description>
+
+  <!-- blast turret -->
+
+  <!-- <BlastTurretGun.label>blast turret</BlastTurretGun.label>
+  <BlastTurretGun.description>Blast turret is designed for close range area damage, and it does so by launching a burst of 3 frag grenades. Explodes in a radius of 3 when destroyed.</BlastTurretGun.description>
+  <BlastTurretGun_Blueprint.label>blast turret (blueprint)</BlastTurretGun_Blueprint.label>
+  <BlastTurretGun_Blueprint_Install.label>blast turret (blueprint)</BlastTurretGun_Blueprint_Install.label>
+  <BlastTurretGun_Frame.label>blast turret (building)</BlastTurretGun_Frame.label>
+  <BlastTurretGun_Frame.description>Blast turret is designed for close range area damage, and it does so by launching a burst of 3 frag grenades. Explodes in a radius of 3 when destroyed.</BlastTurretGun_Frame.description>
+
+  <Bullet_BlastCharge.label>blast charge</Bullet_BlastCharge.label>
+
+  <Gun_BlastCharge.label>rocket complex</Gun_BlastCharge.label>
+  <Gun_BlastCharge.description>A mounted blast charge launcher on a stationary sentry base.</Gun_BlastCharge.description> -->
+  <BlastTurretGun.label>爆裂炮塔</BlastTurretGun.label>
+  <BlastTurretGun.description>爆裂炮塔是为近距离范围攻击而设计的，每次发射3发破片榴弹。损毁时爆炸半径为3。</BlastTurretGun.description>
+  <BlastTurretGun_Blueprint.label>爆裂炮塔（蓝图）</BlastTurretGun_Blueprint.label>
+  <BlastTurretGun_Blueprint_Install.label>爆裂炮塔（蓝图）</BlastTurretGun_Blueprint_Install.label>
+  <BlastTurretGun_Frame.label>爆裂炮塔（建造中）</BlastTurretGun_Frame.label>
+  <BlastTurretGun_Frame.description>爆裂炮塔是为近距离范围攻击而设计的，每次发射3发破片榴弹。损毁时爆炸半径为3。</BlastTurretGun_Frame.description>
+
+  <!--[Duplicated] <Bullet_BlastCharge.label>blast charge</Bullet_BlastCharge.label>-->
+
+  <Gun_BlastCharge.label>爆裂炮塔榴弹发射器</Gun_BlastCharge.label>
+  <Gun_BlastCharge.description>装载于固定哨戒基座的榴弹发射器。</Gun_BlastCharge.description>
+
+  <!-- vulcan cannon -->
+
+  <!-- <VulcanCannon.label>vulcan cannon</VulcanCannon.label>
+  <VulcanCannon.description>Fortified minigun tower that fires continuously, very durable but power hungry. Its tall and has long range, but due to that it can't aim under itself and can't be placed indoors. Explodes in a radius of 5.1 when destroyed.</VulcanCannon.description>
+  <VulcanCannon_Blueprint.label>vulcan cannon (blueprint)</VulcanCannon_Blueprint.label>
+  <VulcanCannon_Frame.label>vulcan cannon (building)</VulcanCannon_Frame.label>
+  <VulcanCannon_Frame.description>Fortified minigun tower that fires continuously, very durable but power hungry. Its tall and has long range, but due to that it can't aim under itself and can't be placed indoors. Explodes in a radius of 5.1 when destroyed.</VulcanCannon_Frame.description>
+
+  <Bullet_VulcanCannon.label>vulcan cannon bullet</Bullet_VulcanCannon.label>
+
+  <Gun_VulcanCannon.label>vulcan cannon gun</Gun_VulcanCannon.label>
+  <Gun_VulcanCannon.description>Carefully crafted gun attached to a turret.</Gun_VulcanCannon.description> -->
+  <VulcanCannon.label>火神炮</VulcanCannon.label>
+  <VulcanCannon.description>火力持续的增强型机枪炮塔，坚固耐用以及怪兽版的火力。结构高达、射程远，但也导致无法精确瞄准并且无法部署于室内。损毁时爆炸半径为5.1。</VulcanCannon.description>
+  <VulcanCannon_Blueprint.label>火神炮（蓝图）</VulcanCannon_Blueprint.label>
+  <VulcanCannon_Frame.label>火神炮（建造中）</VulcanCannon_Frame.label>
+  <VulcanCannon_Frame.description>火力持续的增强型机枪炮塔，坚固耐用以及怪兽版的火力。结构高达、射程远，但也导致无法精确瞄准并且无法部署于室内。损毁时爆炸半径为5.1。</VulcanCannon_Frame.description>
+
+  <!--[Duplicated] <Bullet_VulcanCannon.label>vulcan cannon bullet</Bullet_VulcanCannon.label> -->
+
+  <Gun_VulcanCannon.label>火神炮</Gun_VulcanCannon.label>
+  <Gun_VulcanCannon.description>装载于炮塔的制作精良的枪械。</Gun_VulcanCannon.description>
+
+  <!-- Devastator mortar -->
+
+  <!-- <Turret_DevastatorMortarBomb.label>devastator mortar</Turret_DevastatorMortarBomb.label>
+  <Turret_DevastatorMortarBomb.description>A magnetic catapult that launches plasma projectiles with greater velocity, accuracy, and much larger blast radius thanks to its burst of five shells. Watch out for a huge EMP explosion in a radius of 10 when destroyed.</Turret_DevastatorMortarBomb.description>
+  <Turret_DevastatorMortarBomb_Blueprint.label>devastator mortar (blueprint)</Turret_DevastatorMortarBomb_Blueprint.label>
+  <Turret_DevastatorMortarBomb_Frame.label>devastator mortar (building)</Turret_DevastatorMortarBomb_Frame.label>
+  <Turret_DevastatorMortarBomb_Frame.description>A magnetic catapult that launches plasma projectiles with greater velocity, accuracy, and much larger blast radius thanks to its burst of five shells. Watch out for a huge EMP explosion in a radius of 10 when destroyed.</Turret_DevastatorMortarBomb_Frame.description>
+
+  <Bullet_DevastatorBomb.label>explosive devastator shell</Bullet_DevastatorBomb.label>
+
+  <Artillery_DevastatorBomb.label>devastator mortar</Artillery_DevastatorBomb.label>
+  <Artillery_DevastatorBomb.description>Devastator launcher. Lobs bombs over walls. Semi inaccurate but long-ranged and fires high velocity projectiles.</Artillery_DevastatorBomb.description> -->
+  <Turret_DevastatorMortarBomb.label>毁灭者迫击炮</Turret_DevastatorMortarBomb.label>
+  <Turret_DevastatorMortarBomb.description>磁力弹弓系统发射的等离子炮弹拥有更高的速度、精度，得益于连射的5发炮弹而有更大的爆炸半径。不消耗炮弹但需要大量的电力。损毁时发生半径为10的EMP爆炸，需要非常小心。</Turret_DevastatorMortarBomb.description>
+  <Turret_DevastatorMortarBomb_Blueprint.label>毁灭者迫击炮（蓝图）</Turret_DevastatorMortarBomb_Blueprint.label>
+  <Turret_DevastatorMortarBomb_Frame.label>毁灭者迫击炮（建造中）</Turret_DevastatorMortarBomb_Frame.label>
+  <Turret_DevastatorMortarBomb_Frame.description>磁力弹弓系统发射的等离子炮弹拥有更高的速度、精度，得益于连射的5发炮弹而有更大的爆炸半径。不消耗炮弹但需要大量的电力。损毁时发生半径为10的EMP爆炸，需要非常小心。</Turret_DevastatorMortarBomb_Frame.description>
+
+  <Bullet_DevastatorBomb.label>高爆毁灭者炮弹</Bullet_DevastatorBomb.label>
+
+  <Artillery_DevastatorBomb.label>毁灭者迫击炮</Artillery_DevastatorBomb.label>
+  <Artillery_DevastatorBomb.description>毁灭者发射器。可越过墙体发射炮弹。精度低但射程远并且弹头速度高。</Artillery_DevastatorBomb.description>
+
+
+</LanguageData>
