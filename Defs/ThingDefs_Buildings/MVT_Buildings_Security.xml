@@ -51,6 +51,7 @@
       <Beauty>-40</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>UI/Security/GunComplex_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Forbiddable"/>
       <li Class="CompProperties_Mannable">
@@ -103,6 +104,11 @@
     <researchPrerequisites>
       <li>GunComplex</li>
     </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
   </ThingDef>
 
   <ThingDef ParentName="BaseBullet">
@@ -179,6 +185,7 @@
       <Beauty>-40</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>UI/Security/RocketComplex_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>3</explosiveRadius>
@@ -236,6 +243,11 @@
     <researchPrerequisites>
       <li>RocketComplex</li>
     </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
   </ThingDef>
 
   <ThingDef ParentName="BaseBullet">
@@ -317,6 +329,7 @@
       <Beauty>-60</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>UI/Security/MilitaryTurret_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>4</explosiveRadius>
@@ -381,6 +394,10 @@
     <researchPrerequisites>
       <li>MilitaryTurret</li>
     </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
   </ThingDef>
 
   <ThingDef ParentName="BaseBullet">
@@ -459,6 +476,7 @@
       <Beauty>-70</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>UI/Security/ShredderTurret_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Forbiddable"/>
       <li Class="CompProperties_Power">
@@ -517,6 +535,10 @@
     <researchPrerequisites>
       <li>ShredderTurret</li>
     </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
   </ThingDef>
 
   <ThingDef ParentName="BaseBullet">
@@ -595,6 +617,7 @@
       <Beauty>-60</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>UI/Security/PrecisionTurret_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>2.5</explosiveRadius>
@@ -659,6 +682,10 @@
     <researchPrerequisites>
       <li>PrecisionTurret</li>
     </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
   </ThingDef>
 
   <ThingDef ParentName="BaseBullet">
@@ -736,6 +763,7 @@
       <Beauty>-70</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>UI/Security/BlastTurret_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>3</explosiveRadius>
@@ -799,6 +827,10 @@
     <researchPrerequisites>
       <li>BlastTurret</li>
     </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
   </ThingDef>
 
   <ThingDef ParentName="BaseBullet">
@@ -874,6 +906,7 @@
       <Beauty>-90</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>UI/Security/VulcanCannon_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>5.1</explosiveRadius>
@@ -936,6 +969,8 @@
     <rotatable>true</rotatable>
     <placeWorkers>
       <li>PlaceWorker_NotUnderRoof</li>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
     </placeWorkers>
     <researchPrerequisites>
       <li>VulcanCannon</li>
@@ -1018,6 +1053,7 @@
       <Beauty>-60</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>UI/Security/DevastatorMortar_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
@@ -1063,6 +1099,8 @@
     </building>
     <placeWorkers>
       <li>PlaceWorker_NotUnderRoof</li>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
     </placeWorkers>
     <researchPrerequisites>
       <li>DevastatorMortar</li>

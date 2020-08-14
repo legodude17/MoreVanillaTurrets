@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-<!--=============== military grade turret ===============-->
+  <!--=============== military grade turret ===============-->
   <ThingDef ParentName="BuildingBase">
     <defName>MilitaryTurretGunManned</defName>
     <label>manned military grade turret</label>
@@ -14,11 +14,11 @@
       </damageData>
     </graphicData>
     <minifiedDef>MinifiedThing</minifiedDef>
-	<thingCategories>
-		<li>BuildingsSecurity</li>
+    <thingCategories>
+      <li>BuildingsSecurity</li>
     </thingCategories>
     <altitudeLayer>Building</altitudeLayer>
-	<hasInteractionCell>True</hasInteractionCell>
+    <hasInteractionCell>True</hasInteractionCell>
     <interactionCellOffset>(0,0,-1)</interactionCellOffset>
     <stealable>false</stealable>
     <statBases>
@@ -29,6 +29,7 @@
       <Beauty>-60</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>UI/Security/MilitaryTurret_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>4</explosiveRadius>
@@ -42,10 +43,10 @@
       </li>
       <li Class="CompProperties_Flickable"/>
       <li Class="CompProperties_Breakdownable"/>
-	  <li Class="CompProperties_Mannable">
+      <li Class="CompProperties_Mannable">
         <manWorkType>Violent</manWorkType>
       </li>
-	  <li Class="CompProperties_Refuelable">
+      <li Class="CompProperties_Refuelable">
         <fuelLabel>Shots until barrel change</fuelLabel>
         <fuelGizmoLabel>Barrel durability</fuelGizmoLabel>
         <fuelFilter>
@@ -83,7 +84,7 @@
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Security</designationCategory>
     <specialDisplayRadius>28</specialDisplayRadius>
-	<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
     <building>
       <ai_combatDangerous>true</ai_combatDangerous>
       <turretGunDef>Gun_TurretMilitaryManned</turretGunDef>
@@ -92,6 +93,11 @@
     <researchPrerequisites>
       <li>MilitaryTurret</li>
     </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
   </ThingDef>
 
   <ThingDef ParentName="BaseWeaponTurret">
@@ -104,7 +110,7 @@
     <description>Carefully crafted gun attached to a turret.</description>
     <soundInteract>Interact_Rifle</soundInteract>
     <statBases>
-	  <Mass>40</Mass>
+      <Mass>40</Mass>
       <AccuracyTouch>0.98</AccuracyTouch>
       <AccuracyShort>0.79</AccuracyShort>
       <AccuracyMedium>0.62</AccuracyMedium>
@@ -128,7 +134,7 @@
     </verbs>
   </ThingDef>
 
-<!--=============== shredder turret ===============-->
+  <!--=============== shredder turret ===============-->
   <ThingDef ParentName="BuildingBase">
     <defName>ShredderTurretGunManned</defName>
     <label>manned shredder turret</label>
@@ -143,11 +149,11 @@
       </damageData>
     </graphicData>
     <minifiedDef>MinifiedThing</minifiedDef>
-	<thingCategories>
-		<li>BuildingsSecurity</li>
+    <thingCategories>
+      <li>BuildingsSecurity</li>
     </thingCategories>
     <altitudeLayer>Building</altitudeLayer>
-	<hasInteractionCell>True</hasInteractionCell>
+    <hasInteractionCell>True</hasInteractionCell>
     <interactionCellOffset>(0,0,-1)</interactionCellOffset>
     <stealable>false</stealable>
     <statBases>
@@ -158,6 +164,7 @@
       <Beauty>-70</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>UI/Security/ShredderTurret_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Forbiddable"/>
       <li Class="CompProperties_Power">
@@ -170,10 +177,10 @@
       </li>
       <li Class="CompProperties_Flickable"/>
       <li Class="CompProperties_Breakdownable"/>
-	  <li Class="CompProperties_Mannable">
+      <li Class="CompProperties_Mannable">
         <manWorkType>Violent</manWorkType>
       </li>
-	  <li Class="CompProperties_Refuelable">
+      <li Class="CompProperties_Refuelable">
         <fuelLabel>Shots until barrel change</fuelLabel>
         <fuelGizmoLabel>Barrel durability</fuelGizmoLabel>
         <fuelFilter>
@@ -210,7 +217,7 @@
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Security</designationCategory>
     <specialDisplayRadius>20</specialDisplayRadius>
-	<constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
     <building>
       <ai_combatDangerous>true</ai_combatDangerous>
       <turretGunDef>Gun_TurretShredderManned</turretGunDef>
@@ -219,6 +226,11 @@
     <researchPrerequisites>
       <li>ShredderTurret</li>
     </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
   </ThingDef>
 
   <ThingDef ParentName="BaseWeaponTurret">
@@ -231,7 +243,7 @@
     <description>Shredder shotgun attached to a turret.</description>
     <soundInteract>Interact_Shotgun</soundInteract>
     <statBases>
-	  <Mass>40</Mass>
+      <Mass>40</Mass>
       <AccuracyTouch>1.0</AccuracyTouch>
       <AccuracyShort>0.9</AccuracyShort>
       <AccuracyMedium>0.8</AccuracyMedium>
@@ -269,11 +281,11 @@
       </damageData>
     </graphicData>
     <minifiedDef>MinifiedThing</minifiedDef>
-	<thingCategories>
-		<li>BuildingsSecurity</li>
+    <thingCategories>
+      <li>BuildingsSecurity</li>
     </thingCategories>
     <altitudeLayer>Building</altitudeLayer>
-	<hasInteractionCell>True</hasInteractionCell>
+    <hasInteractionCell>True</hasInteractionCell>
     <interactionCellOffset>(0,0,-1)</interactionCellOffset>
     <stealable>false</stealable>
     <statBases>
@@ -284,6 +296,7 @@
       <Beauty>-60</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>PrecisionTurret_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>2.5</explosiveRadius>
@@ -297,10 +310,10 @@
       </li>
       <li Class="CompProperties_Flickable"/>
       <li Class="CompProperties_Breakdownable"/>
-	  <li Class="CompProperties_Mannable">
+      <li Class="CompProperties_Mannable">
         <manWorkType>Violent</manWorkType>
       </li>
-	  <li Class="CompProperties_Refuelable">
+      <li Class="CompProperties_Refuelable">
         <fuelLabel>Shots until barrel change</fuelLabel>
         <fuelGizmoLabel>Barrel durability</fuelGizmoLabel>
         <fuelFilter>
@@ -338,7 +351,7 @@
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Security</designationCategory>
     <specialDisplayRadius>50</specialDisplayRadius>
-	<constructionSkillPrerequisite>7</constructionSkillPrerequisite>
+    <constructionSkillPrerequisite>7</constructionSkillPrerequisite>
     <building>
       <ai_combatDangerous>true</ai_combatDangerous>
       <turretGunDef>Gun_TurretPrecisionManned</turretGunDef>
@@ -347,6 +360,11 @@
     <researchPrerequisites>
       <li>PrecisionTurret</li>
     </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
   </ThingDef>
 
   <ThingDef ParentName="BaseWeaponTurret">
@@ -359,7 +377,7 @@
     <description>A mounted precision gun on a turret.</description>
     <soundInteract>Interact_Rifle</soundInteract>
     <statBases>
-	  <Mass>40</Mass>
+      <Mass>40</Mass>
       <AccuracyTouch>0.70</AccuracyTouch>
       <AccuracyShort>0.80</AccuracyShort>
       <AccuracyMedium>0.90</AccuracyMedium>
@@ -396,11 +414,11 @@
       </damageData>
     </graphicData>
     <minifiedDef>MinifiedThing</minifiedDef>
-	<thingCategories>
-		<li>BuildingsSecurity</li>
+    <thingCategories>
+      <li>BuildingsSecurity</li>
     </thingCategories>
     <altitudeLayer>Building</altitudeLayer>
-	<hasInteractionCell>True</hasInteractionCell>
+    <hasInteractionCell>True</hasInteractionCell>
     <interactionCellOffset>(0,0,-1)</interactionCellOffset>
     <stealable>false</stealable>
     <statBases>
@@ -411,6 +429,7 @@
       <Beauty>-70</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>UI/Security/BlastTurret_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>3</explosiveRadius>
@@ -423,7 +442,7 @@
       </li>
       <li Class="CompProperties_Flickable"/>
       <li Class="CompProperties_Breakdownable"/>
-	  <li Class="CompProperties_Mannable">
+      <li Class="CompProperties_Mannable">
         <manWorkType>Violent</manWorkType>
       </li>
       <li Class="CompProperties_Refuelable">
@@ -439,7 +458,7 @@
         <autoRefuelPercent>0.75</autoRefuelPercent>
         <showFuelGizmo>true</showFuelGizmo>
         <minimumFueledThreshold>1</minimumFueledThreshold>
-        
+
         <fuelMultiplier>0.75</fuelMultiplier>
         <factorByDifficulty>true</factorByDifficulty>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
@@ -464,7 +483,7 @@
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Security</designationCategory>
     <specialDisplayRadius>20</specialDisplayRadius>
-	<constructionSkillPrerequisite>7</constructionSkillPrerequisite>
+    <constructionSkillPrerequisite>7</constructionSkillPrerequisite>
     <building>
       <ai_combatDangerous>true</ai_combatDangerous>
       <turretGunDef>Gun_BlastChargeManned</turretGunDef>
@@ -473,6 +492,11 @@
     <researchPrerequisites>
       <li>BlastTurret</li>
     </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
   </ThingDef>
 
   <ThingDef ParentName="BaseWeaponTurret">
@@ -485,7 +509,7 @@
     <description>A mounted blast charge launcher on a stationary sentry base.</description>
     <soundInteract>Interact_Rifle</soundInteract>
     <statBases>
-	  <Mass>40</Mass>
+      <Mass>40</Mass>
       <AccuracyTouch>0.8</AccuracyTouch>
       <AccuracyShort>0.7</AccuracyShort>
       <AccuracyMedium>0.6</AccuracyMedium>
@@ -511,7 +535,7 @@
     </verbs>
   </ThingDef>
 
-<!--=============== vulcan cannon ===============-->
+  <!--=============== vulcan cannon ===============-->
   <ThingDef ParentName="BuildingBase">
     <defName>VulcanCannonManned</defName>
     <label>manned vulcan cannon</label>
@@ -522,7 +546,7 @@
       <drawSize>(5,5)</drawSize>
     </graphicData>
     <altitudeLayer>Building</altitudeLayer>
-	<hasInteractionCell>True</hasInteractionCell>
+    <hasInteractionCell>True</hasInteractionCell>
     <interactionCellOffset>(0,0,-2)</interactionCellOffset>
     <stealable>false</stealable>
     <statBases>
@@ -533,6 +557,7 @@
       <Beauty>-90</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
+    <uiIconPath>UI/Security/VulcanCannon_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>5.1</explosiveRadius>
@@ -549,7 +574,7 @@
         <glowColor>(260,0,0,0)</glowColor>
       </li>
       <li Class="CompProperties_Flickable"/>
-	  <li Class="CompProperties_Mannable">
+      <li Class="CompProperties_Mannable">
         <manWorkType>Violent</manWorkType>
       </li>
       <li Class="CompProperties_Refuelable">
@@ -565,7 +590,7 @@
         <autoRefuelPercent>0.75</autoRefuelPercent>
         <showFuelGizmo>true</showFuelGizmo>
         <minimumFueledThreshold>1</minimumFueledThreshold>
-        
+
         <fuelMultiplier>0.75</fuelMultiplier>
         <factorByDifficulty>true</factorByDifficulty>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
@@ -590,7 +615,7 @@
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Security</designationCategory>
     <specialDisplayRadius>36</specialDisplayRadius>
-	<constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
     <building>
       <ai_combatDangerous>true</ai_combatDangerous>
       <turretGunDef>Gun_VulcanCannonManned</turretGunDef>
@@ -599,6 +624,9 @@
     <rotatable>true</rotatable>
     <placeWorkers>
       <li>PlaceWorker_NotUnderRoof</li>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
     </placeWorkers>
     <researchPrerequisites>
       <li>VulcanCannon</li>
@@ -615,7 +643,7 @@
     <description>Carefully crafted gun attached to a turret.</description>
     <soundInteract>Interact_Rifle</soundInteract>
     <statBases>
-	  <Mass>40</Mass>
+      <Mass>40</Mass>
       <AccuracyTouch>0.95</AccuracyTouch>
       <AccuracyShort>0.75</AccuracyShort>
       <AccuracyMedium>0.55</AccuracyMedium>
@@ -636,9 +664,9 @@
         <soundCastTail>GunTail_Heavy</soundCastTail>
         <muzzleFlashScale>6</muzzleFlashScale>
         <consumeFuelPerShot>1</consumeFuelPerShot>
-		<targetParams>
-			<canTargetLocations>True</canTargetLocations>
-		</targetParams>
+        <targetParams>
+          <canTargetLocations>True</canTargetLocations>
+        </targetParams>
       </li>
     </verbs>
   </ThingDef>
