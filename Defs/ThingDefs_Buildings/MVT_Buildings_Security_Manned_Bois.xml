@@ -296,7 +296,7 @@
       <Beauty>-60</Beauty>
     </statBases>
     <tickerType>Normal</tickerType>
-    <uiIconPath>PrecisionTurret_UI</uiIconPath>
+    <uiIconPath>UI/Security/PrecisionTurret_UI</uiIconPath>
     <comps>
       <li Class="CompProperties_Explosive">
         <explosiveRadius>2.5</explosiveRadius>
