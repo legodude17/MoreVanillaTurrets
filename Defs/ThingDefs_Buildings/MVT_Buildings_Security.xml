@@ -1086,7 +1086,8 @@
       <Steel>750</Steel>
       <ComponentIndustrial>20</ComponentIndustrial>
     </costList>
-    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    
+          <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
     <designationCategory>Security</designationCategory>
     <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
     <building>
@@ -1095,16 +1096,21 @@
       <turretBurstCooldownTime>60.0</turretBurstCooldownTime>
       <buildingTags>
         <li>Artillery</li>
+        <li>Artillery_BaseDestroyer</li>
+          <li>Artillery_MannedMortar</li>
       </buildingTags>
     </building>
     <placeWorkers>
       <li>PlaceWorker_NotUnderRoof</li>
       <li>PlaceWorker_TurretTop</li>
-      <li>PlaceWorker_ShowTurretRadius</li>
+          <li>PlaceWorker_PreventInteractionSpotOverlap</li>
     </placeWorkers>
     <researchPrerequisites>
       <li>DevastatorMortar</li>
     </researchPrerequisites>
+    <inspectorTabs>
+            <li>ITab_Shells</li>
+          </inspectorTabs>
   </ThingDef>
 
   <ThingDef ParentName="BaseBullet">
