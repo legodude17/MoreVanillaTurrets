@@ -1094,11 +1094,11 @@
       <turretGunDef>Artillery_DevastatorBomb</turretGunDef>
       <turretBurstWarmupTime>3.3</turretBurstWarmupTime>
       <turretBurstCooldownTime>60.0</turretBurstCooldownTime>
-      <buildingTags>
+      <!--<buildingTags>
         <li>Artillery</li>
         <li>Artillery_BaseDestroyer</li>
           <li>Artillery_MannedMortar</li>
-      </buildingTags>
+      </buildingTags>-->
     </building>
     <placeWorkers>
       <li>PlaceWorker_NotUnderRoof</li>
