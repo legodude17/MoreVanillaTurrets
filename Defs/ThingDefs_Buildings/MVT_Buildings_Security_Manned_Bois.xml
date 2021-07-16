@@ -98,6 +98,7 @@
       <li>PlaceWorker_PreventInteractionSpotOverlap</li>
       <li>PlaceWorker_ShowTurretRadius</li>
     </placeWorkers>
+    <drawerType>MapMeshAndRealTime</drawerType>
   </ThingDef>
 
   <ThingDef ParentName="BaseWeaponTurret">
@@ -107,6 +108,7 @@
       <texPath>Things/Building/Security/MilitaryTurretGun</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <altitudeLayer>BuildingOnTop</altitudeLayer>
     <description>Carefully crafted gun attached to a turret.</description>
     <soundInteract>Interact_Rifle</soundInteract>
     <statBases>
@@ -231,6 +233,7 @@
       <li>PlaceWorker_PreventInteractionSpotOverlap</li>
       <li>PlaceWorker_ShowTurretRadius</li>
     </placeWorkers>
+    <drawerType>MapMeshAndRealTime</drawerType>
   </ThingDef>
 
   <ThingDef ParentName="BaseWeaponTurret">
@@ -240,6 +243,7 @@
       <texPath>Things/Building/Security/ShredderTurretGun</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <altitudeLayer>BuildingOnTop</altitudeLayer>
     <description>Shredder shotgun attached to a turret.</description>
     <soundInteract>Interact_Shotgun</soundInteract>
     <statBases>
@@ -365,6 +369,7 @@
       <li>PlaceWorker_PreventInteractionSpotOverlap</li>
       <li>PlaceWorker_ShowTurretRadius</li>
     </placeWorkers>
+    <drawerType>MapMeshAndRealTime</drawerType>
   </ThingDef>
 
   <ThingDef ParentName="BaseWeaponTurret">
@@ -374,6 +379,7 @@
       <texPath>Things/Building/Security/PrecisionTurretGun</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <altitudeLayer>BuildingOnTop</altitudeLayer>
     <description>A mounted precision gun on a turret.</description>
     <soundInteract>Interact_Rifle</soundInteract>
     <statBases>
@@ -497,6 +503,7 @@
       <li>PlaceWorker_PreventInteractionSpotOverlap</li>
       <li>PlaceWorker_ShowTurretRadius</li>
     </placeWorkers>
+    <drawerType>MapMeshAndRealTime</drawerType>
   </ThingDef>
 
   <ThingDef ParentName="BaseWeaponTurret">
@@ -506,6 +513,7 @@
       <texPath>Things/Building/Security/BlastTurretGun</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <altitudeLayer>BuildingOnTop</altitudeLayer>
     <description>A mounted blast charge launcher on a stationary sentry base.</description>
     <soundInteract>Interact_Rifle</soundInteract>
     <statBases>
@@ -631,6 +639,7 @@
     <researchPrerequisites>
       <li>VulcanCannon</li>
     </researchPrerequisites>
+    <drawerType>MapMeshAndRealTime</drawerType>
   </ThingDef>
 
   <ThingDef ParentName="BaseWeaponTurret">
@@ -640,6 +649,7 @@
       <texPath>Things/Building/Security/VulcanCannonGun</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <altitudeLayer>BuildingOnTop</altitudeLayer>
     <description>Carefully crafted gun attached to a turret.</description>
     <soundInteract>Interact_Rifle</soundInteract>
     <statBases>
